@@ -6,10 +6,13 @@ TagManager:
   tags:
   - Spike
   - Ground
+<<<<<<< HEAD
   - Trash
   - Door
   - KeyFragment
   - HealingRoom
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   layers:
   - Default
   - TransparentFX

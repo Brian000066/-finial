@@ -29,6 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level_nilsilan.unity
     guid: e97b97a37bec12e41810a163102eb5cd
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/Scenes/Level_SouthAfraic.unity
     guid: 2d458ce8121ce02468409364aae89e51
@@ -53,5 +54,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: 1450f432798e69b4e8c6fb2e577bb6d1
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

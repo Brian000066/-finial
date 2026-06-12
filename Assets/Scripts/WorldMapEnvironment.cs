@@ -22,6 +22,7 @@ public class WorldMapEnvironment : MonoBehaviour
     public SpriteRenderer australiaFactory;
     public GameObject australiaForest;
 
+<<<<<<< HEAD
     [Header("SouthAfrica")]
     public SpriteRenderer southAfricaFactory;
     public GameObject southAfricaForest;
@@ -50,6 +51,8 @@ public class WorldMapEnvironment : MonoBehaviour
     public SpriteRenderer russiaFactory;
     public GameObject russiaForest;
 
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
     void Start()
     {
         alaboFactory.enabled = !GameState.alaboCleared;
@@ -66,6 +69,7 @@ public class WorldMapEnvironment : MonoBehaviour
 
         australiaFactory.enabled = !GameState.australiaCleared;
         australiaForest.SetActive(GameState.australiaCleared);
+<<<<<<< HEAD
 
         southAfricaFactory.enabled = !GameState.southAfricaCleared;
         southAfricaForest.SetActive(GameState.southAfricaCleared);
@@ -87,5 +91,7 @@ public class WorldMapEnvironment : MonoBehaviour
 
         egyptFactory.enabled = !GameState.egyptCleared;
         egyptForest.SetActive(GameState.egyptCleared);
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
     }
 }

@@ -615,7 +615,10 @@ MonoBehaviour:
   characterSprites:
   - {fileID: 8827570466921972487, guid: 7e9aead6cd2859743af19feab2ddcddb, type: 3}
   - {fileID: 8493825470289540034, guid: 09742ee03e0744a46af96f2a9de6538d, type: 3}
+<<<<<<< HEAD
   - {fileID: 3927239289826052283, guid: 2c9d8179dcba8f149b4787fab02083d0, type: 3}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!4 &1066790149
 Transform:
   m_ObjectHideFlags: 0
@@ -631,6 +634,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1261650319
 GameObject:
   m_ObjectHideFlags: 0
@@ -722,6 +726,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &1378956878
 GameObject:
   m_ObjectHideFlags: 0
@@ -1396,7 +1402,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_text: confirm
+=======
+  m_text: check
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1616,4 +1626,7 @@ SceneRoots:
   - {fileID: 1028695536}
   - {fileID: 378007975}
   - {fileID: 1066790149}
+<<<<<<< HEAD
   - {fileID: 1261650321}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3

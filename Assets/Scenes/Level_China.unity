@@ -681,16 +681,25 @@ GameObject:
   m_Component:
   - component: {fileID: 67731258}
   - component: {fileID: 67731257}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 67731256}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   - component: {fileID: 67731261}
   - component: {fileID: 67731260}
   - component: {fileID: 67731262}
   - component: {fileID: 67731263}
   - component: {fileID: 67731264}
+<<<<<<< HEAD
   - component: {fileID: 67731256}
   - component: {fileID: 67731265}
   - component: {fileID: 67731266}
   - component: {fileID: 67731267}
   - component: {fileID: 67731268}
+=======
+  - component: {fileID: 67731265}
+  - component: {fileID: 67731266}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -724,6 +733,7 @@ MonoBehaviour:
   - {fileID: -2197149967541227353, guid: 033498ea33b53854e9ad7223b29f3c4a, type: 3}
   - {fileID: -1481192277688721393, guid: 57c104aef4bf03d4a8c08f127d89a035, type: 3}
   - {fileID: 8973102766058258507, guid: a7fa744db1a3e314c9391558ef5f2c7b, type: 3}
+<<<<<<< HEAD
   - {fileID: -1481192277688721393, guid: 57c104aef4bf03d4a8c08f127d89a035, type: 3}
   - {fileID: -2197149967541227353, guid: 033498ea33b53854e9ad7223b29f3c4a, type: 3}
   polarBearSprites:
@@ -734,6 +744,8 @@ MonoBehaviour:
   turtleCollider: {fileID: 67731268}
   whaleCollider: {fileID: 67731267}
   polarBearCollider: {fileID: 67731265}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!212 &67731257
 SpriteRenderer:
   serializedVersion: 2
@@ -783,7 +795,11 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_MaskInteraction: 0
+<<<<<<< HEAD
   m_Sprite: {fileID: 8827570466921972487, guid: 7e9aead6cd2859743af19feab2ddcddb, type: 3}
+=======
+  m_Sprite: {fileID: 8493825470289540034, guid: 09742ee03e0744a46af96f2a9de6538d, type: 3}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -883,9 +899,12 @@ MonoBehaviour:
   - {fileID: -1799745141535159232, guid: 1279f6c0af9b2e544878566461b751c4, type: 3}
   - {fileID: -4922159070249222335, guid: 30b157e35a7c1c140bb1ed2804e4b18e, type: 3}
   - {fileID: -1703780801958132584, guid: 1af901788fea6804fbc118d36eb82e2b, type: 3}
+<<<<<<< HEAD
   - {fileID: -4922159070249222335, guid: 30b157e35a7c1c140bb1ed2804e4b18e, type: 3}
   - {fileID: -1799745141535159232, guid: 1279f6c0af9b2e544878566461b751c4, type: 3}
   - {fileID: 4131474767581822358, guid: da389b579e8d229498070eb0d3bc3346, type: 3}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   frameTime: 0.1
 --- !u!114 &67731264
 MonoBehaviour:
@@ -937,17 +956,29 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
+<<<<<<< HEAD
   m_Offset: {x: -0.37810755, y: -0.09360278}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 6.36, y: 3.75}
+=======
+  m_Offset: {x: -0.050013542, y: 0.041650116}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 7.19, y: 4.34}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
     newSize: {x: 7.19, y: 4.34}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
+<<<<<<< HEAD
   m_Size: {x: 4.2607145, y: 2.6199944}
+=======
+  m_Size: {x: 6.789894, y: 3.8565946}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_EdgeRadius: 0
 --- !u!58 &67731266
 CircleCollider2D:
@@ -956,7 +987,11 @@ CircleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 67731255}
+<<<<<<< HEAD
   m_Enabled: 0
+=======
+  m_Enabled: 1
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -983,6 +1018,7 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
+<<<<<<< HEAD
   m_Offset: {x: -0.24912477, y: 0.64932185}
   m_Radius: 2.096823
 --- !u!70 &67731267
@@ -1188,6 +1224,10 @@ PolygonCollider2D:
       - {x: 2.3999999, y: 1.3249999}
       - {x: 2.3899999, y: 1.3349999}
   m_UseDelaunayMesh: 1
+=======
+  m_Offset: {x: -0.18889824, y: 1.5426946}
+  m_Radius: 3.4318645
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &77154958
 GameObject:
   m_ObjectHideFlags: 0
@@ -4951,7 +4991,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -555, y: 254}
+=======
+  m_AnchoredPosition: {x: -366, y: 140}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_SizeDelta: {x: 200, y: 25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1634528368
@@ -5336,8 +5380,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -12.9206, y: -4.1, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 1.8999999, y: 1.4698825, z: 1.013712}
   m_ConstrainProportionsScale: 1
+=======
+  m_LocalScale: {x: 1.8742994, y: 1.45, z: 1}
+  m_ConstrainProportionsScale: 0
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

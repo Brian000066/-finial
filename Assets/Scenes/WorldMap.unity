@@ -119,6 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1492931
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,6 +211,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1235519559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &10110450
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,8 +417,13 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
+<<<<<<< HEAD
   m_Offset: {x: 0.025856493, y: 0.06463706}
   m_Size: {x: 2.0341918, y: 6.1450844}
+=======
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 1, y: 1}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Direction: 0
 --- !u!212 &30556548
 SpriteRenderer:
@@ -485,12 +493,18 @@ Transform:
   m_GameObject: {fileID: 30556545}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 5.164, y: 0.385, z: 0}
   m_LocalScale: {x: 0.06666667, y: 0.10000001, z: 0.40000004}
+=======
+  m_LocalPosition: {x: 1.3500004, y: 0.96, z: 0}
+  m_LocalScale: {x: 0.099999994, y: 0.14999999, z: 0.59999996}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 732378899}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &39662090
 GameObject:
   m_ObjectHideFlags: 0
@@ -764,6 +778,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &81099321
 GameObject:
   m_ObjectHideFlags: 0
@@ -1674,7 +1690,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -8, y: -150}
+=======
+  m_AnchoredPosition: {x: -8, y: -104}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &324518443
@@ -1862,6 +1882,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &365574716
 GameObject:
   m_ObjectHideFlags: 0
@@ -1907,6 +1928,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &388436101
 GameObject:
   m_ObjectHideFlags: 0
@@ -1934,7 +1957,11 @@ RectTransform:
   m_GameObject: {fileID: 388436101}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 1.2, y: 1, z: 1}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 501512926}
@@ -1945,7 +1972,11 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -19, y: 2}
+<<<<<<< HEAD
   m_SizeDelta: {x: 500, y: 500}
+=======
+  m_SizeDelta: {x: 300, y: 350}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &388436103
 MonoBehaviour:
@@ -2105,7 +2136,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Russia
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &465460096
@@ -2287,7 +2322,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_87
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &473728046
@@ -2544,7 +2583,11 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
+<<<<<<< HEAD
   m_margin: {x: -148.2482, y: 2.753418, z: -128.9714, w: -2.7534485}
+=======
+  m_margin: {x: 0, y: 0, z: -64.8071, w: 0}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2574,7 +2617,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 11, y: 230}
+=======
+  m_AnchoredPosition: {x: 11, y: 152}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &510145493
@@ -3016,7 +3063,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Antarctica
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &523507994
@@ -3828,7 +3879,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Russia
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &630690367
@@ -4029,6 +4084,7 @@ Transform:
   - {fileID: 1392618072}
   - {fileID: 243472989}
   - {fileID: 736394959}
+<<<<<<< HEAD
   - {fileID: 1413359873}
   - {fileID: 1560038245}
   - {fileID: 1306437345}
@@ -4036,6 +4092,10 @@ Transform:
   - {fileID: 887523892}
   - {fileID: 1083251921}
   - {fileID: 1862421852}
+=======
+  - {fileID: 1316338531}
+  - {fileID: 1083251921}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &732378900
@@ -4217,7 +4277,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Egypt
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &736394963
@@ -4775,7 +4839,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Egypt
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &778305864
@@ -4925,7 +4993,11 @@ Transform:
   m_GameObject: {fileID: 802395435}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.518, y: 0.748, z: 0}
+=======
+  m_LocalPosition: {x: 4.785, y: 0.748, z: 0}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_LocalScale: {x: 0.03, y: 0.044999998, z: 0.17999999}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -5019,6 +5091,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 12.29, y: 8.19}
   m_EdgeRadius: 0
+<<<<<<< HEAD
 --- !u!1 &887523891
 GameObject:
   m_ObjectHideFlags: 0
@@ -5110,6 +5183,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &910776317
 GameObject:
   m_ObjectHideFlags: 0
@@ -5367,7 +5442,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_87
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &1083251925
@@ -5549,7 +5628,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Italy
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &1206444668
@@ -5712,6 +5795,7 @@ Transform:
   - {fileID: 510145494}
   - {fileID: 709768160}
   - {fileID: 523507990}
+<<<<<<< HEAD
   - {fileID: 1697263261}
   - {fileID: 39662091}
   - {fileID: 1492933}
@@ -5725,6 +5809,13 @@ Transform:
   - {fileID: 1401926557}
   - {fileID: 473728042}
   - {fileID: 1810327311}
+=======
+  - {fileID: 630690363}
+  - {fileID: 1206444664}
+  - {fileID: 778305860}
+  - {fileID: 1894342172}
+  - {fileID: 473728042}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1238268513
@@ -5909,6 +6000,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &1306437344
 GameObject:
   m_ObjectHideFlags: 0
@@ -6000,6 +6092,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &1316338530
 GameObject:
   m_ObjectHideFlags: 0
@@ -6120,7 +6214,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_USA
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &1316338535
@@ -6302,7 +6400,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Italy
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &1392618076
@@ -6364,6 +6466,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &1401926556
 GameObject:
   m_ObjectHideFlags: 0
@@ -6546,6 +6649,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &1483492282
 GameObject:
   m_ObjectHideFlags: 0
@@ -6718,7 +6823,11 @@ Transform:
   m_GameObject: {fileID: 1530246224}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.522, y: 0.747, z: 0}
+=======
+  m_LocalPosition: {x: 4.799, y: 0.747, z: 0}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_LocalScale: {x: 0.03, y: 0.044999998, z: 0.17999999}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -6887,9 +6996,12 @@ GameObject:
   - component: {fileID: 1553501391}
   - component: {fileID: 1553501393}
   - component: {fileID: 1553501392}
+<<<<<<< HEAD
   - component: {fileID: 1553501395}
   - component: {fileID: 1553501394}
   - component: {fileID: 1553501396}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -7519,12 +7631,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+<<<<<<< HEAD
 --- !u!114 &1560038248
+=======
+--- !u!114 &1553501390
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1560038244}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7537,10 +7654,35 @@ MonoBehaviour:
 --- !u!212 &1560038249
 SpriteRenderer:
   serializedVersion: 2
+=======
+  m_GameObject: {fileID: 1553501384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: decbe2a8b1fbcad4793151ab2ef501d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacterLoader
+  seaturtleSprites:
+  - {fileID: 8827570466921972487, guid: 7e9aead6cd2859743af19feab2ddcddb, type: 3}
+  - {fileID: 4131474767581822358, guid: da389b579e8d229498070eb0d3bc3346, type: 3}
+  - {fileID: -1799745141535159232, guid: 1279f6c0af9b2e544878566461b751c4, type: 3}
+  - {fileID: -4922159070249222335, guid: 30b157e35a7c1c140bb1ed2804e4b18e, type: 3}
+  - {fileID: -1703780801958132584, guid: 1af901788fea6804fbc118d36eb82e2b, type: 3}
+  - {fileID: -4922159070249222335, guid: 30b157e35a7c1c140bb1ed2804e4b18e, type: 3}
+  - {fileID: -1799745141535159232, guid: 1279f6c0af9b2e544878566461b751c4, type: 3}
+  - {fileID: 4131474767581822358, guid: da389b579e8d229498070eb0d3bc3346, type: 3}
+  whaleSprites:
+  - {fileID: 8493825470289540034, guid: 09742ee03e0744a46af96f2a9de6538d, type: 3}
+  - {fileID: -2197149967541227353, guid: 033498ea33b53854e9ad7223b29f3c4a, type: 3}
+  - {fileID: -1481192277688721393, guid: 57c104aef4bf03d4a8c08f127d89a035, type: 3}
+  - {fileID: 8973102766058258507, guid: a7fa744db1a3e314c9391558ef5f2c7b, type: 3}
+--- !u!114 &1553501391
+MonoBehaviour:
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1560038244}
   m_Enabled: 1
   m_CastShadows: 0
@@ -7594,6 +7736,46 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
 --- !u!1 &1697263260
+=======
+  m_GameObject: {fileID: 1553501384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e714a3508acbc41ad5adf7b20b2558, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TurtleWalkAnimator
+  walkSprites:
+  - {fileID: 8827570466921972487, guid: 7e9aead6cd2859743af19feab2ddcddb, type: 3}
+  - {fileID: 4131474767581822358, guid: da389b579e8d229498070eb0d3bc3346, type: 3}
+  - {fileID: -1799745141535159232, guid: 1279f6c0af9b2e544878566461b751c4, type: 3}
+  - {fileID: -4922159070249222335, guid: 30b157e35a7c1c140bb1ed2804e4b18e, type: 3}
+  - {fileID: -1703780801958132584, guid: 1af901788fea6804fbc118d36eb82e2b, type: 3}
+  frameTime: 0.15
+--- !u!114 &1553501392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553501384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d00dc572e043ad4898fd8bf6ae1e599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerWorldPosition
+--- !u!114 &1553501393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553501384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f308ba3166ac24a87b31f0af271af5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WorldMapPlayerRestore
+--- !u!1 &1558129794
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7601,21 +7783,48 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1697263261}
   - component: {fileID: 1697263262}
   m_Layer: 0
   m_Name: tree_0 (7)
+=======
+  - component: {fileID: 1558129796}
+  - component: {fileID: 1558129795}
+  m_Layer: 0
+  m_Name: NPCManager
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< HEAD
   m_IsActive: 0
 --- !u!4 &1697263261
+=======
+  m_IsActive: 1
+--- !u!114 &1558129795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1558129794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e1b43993cf3ea4ea57686d39538e9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCChat
+  inputField: {fileID: 2001299353}
+  outputText: {fileID: 501512924}
+--- !u!4 &1558129796
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1697263260}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -7774,6 +7983,16 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1235519559}
+=======
+  m_GameObject: {fileID: 1558129794}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -55.38, y: -3.35259, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1820429971
 GameObject:
@@ -7825,6 +8044,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1862421851
 GameObject:
   m_ObjectHideFlags: 0
@@ -7916,6 +8136,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &1883140464
 GameObject:
   m_ObjectHideFlags: 0
@@ -8127,7 +8349,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_USA
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &1894342176
@@ -8217,8 +8443,13 @@ Transform:
   m_GameObject: {fileID: 1914071963}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 5.17, y: 0.381, z: 0}
   m_LocalScale: {x: 0.066666655, y: 0.1, z: 0.35999998}
+=======
+  m_LocalPosition: {x: 1.29, y: 0.96, z: 0}
+  m_LocalScale: {x: 0.09999999, y: 0.15, z: 0.54}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1235519559}
@@ -8551,7 +8782,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -8, y: -114}
+=======
+  m_AnchoredPosition: {x: -6, y: -56}
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2001299351
@@ -8733,6 +8968,7 @@ MonoBehaviour:
   nilsilanForest: {fileID: 1883140464}
   australiaFactory: {fileID: 2072740715}
   australiaForest: {fileID: 355093741}
+<<<<<<< HEAD
   southAfricaFactory: {fileID: 1560038249}
   southAfricaForest: {fileID: 1306437344}
   antarcticaFactory: {fileID: 2029215178}
@@ -8747,6 +8983,8 @@ MonoBehaviour:
   italyForest: {fileID: 243472988}
   russiaFactory: {fileID: 465460096}
   russiaForest: {fileID: 757743776}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!4 &2012738641
 Transform:
   m_ObjectHideFlags: 0
@@ -8784,6 +9022,7 @@ MonoBehaviour:
   nilsilanForest: {fileID: 709768159}
   australiaFactory: {fileID: 577630642}
   australiaForest: {fileID: 296926704}
+<<<<<<< HEAD
   southAfricaFactory: {fileID: 39662095}
   southAfricaForest: {fileID: 1492931}
   antarcticaFactory: {fileID: 523507994}
@@ -8798,6 +9037,8 @@ MonoBehaviour:
   italyForest: {fileID: 2115339345}
   russiaFactory: {fileID: 630690367}
   russiaForest: {fileID: 2124558002}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1 &2029215173
 GameObject:
   m_ObjectHideFlags: 0
@@ -8918,7 +9159,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 582c630a8d31cca4dbf2f2e9631f9099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelPoint
+<<<<<<< HEAD
   sceneName: Level_Antarctica
+=======
+  sceneName: Level_alabo
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
   map0: {fileID: 732378899}
   map1: {fileID: 1235519559}
 --- !u!212 &2029215178
@@ -9162,6 +9407,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &2115339345
 GameObject:
   m_ObjectHideFlags: 0
@@ -9344,6 +9590,8 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -9358,4 +9606,7 @@ SceneRoots:
   - {fileID: 732378899}
   - {fileID: 1235519559}
   - {fileID: 2012738641}
+<<<<<<< HEAD
   - {fileID: 365574718}
+=======
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3

@@ -11,7 +11,11 @@ public class NPCChat : MonoBehaviour
 
     // 換成你的 loca.lt 網址
     private string url =
+<<<<<<< HEAD
     "https://eight-emus-stay.loca.lt/ask";
+=======
+    "https://flat-baths-grow.loca.lt/ask";
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 
     public void AskNPC()
     {
@@ -30,7 +34,11 @@ public class NPCChat : MonoBehaviour
         UnityWebRequest request =
         new UnityWebRequest(url, "POST");
 
+<<<<<<< HEAD
         request.timeout = 40;
+=======
+        request.timeout = 20;
+>>>>>>> b0b843043e5ca1bc77246e8da03535189231dce3
 
         byte[] bodyRaw =
         Encoding.UTF8.GetBytes(json);
