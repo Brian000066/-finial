@@ -13,8 +13,25 @@ public class LoopingWorldMap : MonoBehaviour
 
     private float currentY = 0f;
 
+    void Start()
+    {
+        if (WorldMapState.hasSavedMapPosition)
+        {
+            mapA.position = WorldMapState.map0Position;
+            mapB.position = WorldMapState.map1Position;
+
+            // 把 Y 同步回來
+            currentY = mapA.position.y;
+        }
+    }
+
     void Update()
     {
+        // ===== NPC 對話中：停止地圖移動 =====
+        if (NPCTrigger.isChatting)
+        {
+            return;
+        }
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
 

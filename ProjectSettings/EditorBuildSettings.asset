@@ -14,5 +14,44 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldMap.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level_China.unity
+    guid: c660ecce54b9d2745aaeeb22c068873a
+  - enabled: 1
+    path: Assets/Scenes/Level_alabo.unity
+    guid: 5c5394d29e61c6d49b4243baba47b2f0
+  - enabled: 1
+    path: Assets/Scenes/Level_India.unity
+    guid: 6f5d3e56ea401d74ba195937ed1bf1dc
+  - enabled: 1
+    path: Assets/Scenes/Level_Australia.unity
+    guid: b574ee8d8abf04a4ebb2b38b7d4015ec
+  - enabled: 1
+    path: Assets/Scenes/Level_nilsilan.unity
+    guid: e97b97a37bec12e41810a163102eb5cd
+  - enabled: 1
+    path: Assets/Scenes/Level_SouthAfraic.unity
+    guid: 2d458ce8121ce02468409364aae89e51
+  - enabled: 1
+    path: Assets/Scenes/Level_Antarctica.unity
+    guid: a7921c8878a0ee74b8573301ce810d01
+  - enabled: 1
+    path: Assets/Scenes/Level_87.unity
+    guid: 37c759fb98a5aa240b7d2ae703aa4999
+  - enabled: 1
+    path: Assets/Scenes/Level_USA.unity
+    guid: eec9085f49b38544688318810d55881c
+  - enabled: 1
+    path: Assets/Scenes/Level_Italy.unity
+    guid: 603049cf62138ea46b69e3840bf69261
+  - enabled: 1
+    path: Assets/Scenes/Level_Egypt.unity
+    guid: 9b0acaf3adcbdf8489bef6a88437943f
+  - enabled: 1
+    path: Assets/Scenes/Level_Russia.unity
+    guid: 4128685d57bd6e145b4d715ca9678c6c
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 1450f432798e69b4e8c6fb2e577bb6d1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
