@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ec6a420afd169ca4693aabf10fedc7e0
+guid: 31611d1b36fc1d1479c6549eea0c0dee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4804446361586417100
-    second: map_0
+      213: 8697251012617859226
+    second: Russia_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: map_0
+      name: Russia_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 728
-        height: 384
+        width: 1522
+        height: 1076
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccdb6c4c282dca240800000000000000
-      internalID: 4804446361586417100
+      spriteID: a907e7947b7d2b870800000000000000
+      internalID: 8697251012617859226
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      map_0: 4804446361586417100
+      Russia_0: 8697251012617859226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -14,5 +14,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldMap.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level_China.unity
+    guid: c660ecce54b9d2745aaeeb22c068873a
+  - enabled: 1
+    path: Assets/Scenes/Level_alabo.unity
+    guid: 5c5394d29e61c6d49b4243baba47b2f0
+  - enabled: 1
+    path: Assets/Scenes/Level_India.unity
+    guid: 6f5d3e56ea401d74ba195937ed1bf1dc
+  - enabled: 1
+    path: Assets/Scenes/Level_Australia.unity
+    guid: b574ee8d8abf04a4ebb2b38b7d4015ec
+  - enabled: 1
+    path: Assets/Scenes/Level_nilsilan.unity
+    guid: e97b97a37bec12e41810a163102eb5cd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

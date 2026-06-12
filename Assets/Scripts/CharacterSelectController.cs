@@ -1,23 +1,53 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class CharacterSelectController : MonoBehaviour
 {
-    public void SelectTurtle()
+    public Image characterImage;
+
+    public Sprite[] characterSprites;
+
+    private int currentCharacter = 0;
+
+    void Start()
     {
-        GameData.selectedCharacter = "Turtle";
-        SceneManager.LoadScene("WorldMap");
+        UpdateCharacter();
     }
 
-    public void SelectWhale()
+    void UpdateCharacter()
     {
-        GameData.selectedCharacter = "Whale";
-        SceneManager.LoadScene("WorldMap");
+        characterImage.sprite = characterSprites[currentCharacter];
     }
 
-    public void SelectCoral()
+    public void NextCharacter()
     {
-        GameData.selectedCharacter = "Coral";
+        currentCharacter++;
+
+        if (currentCharacter >= characterSprites.Length)
+        {
+            currentCharacter = 0;
+        }
+
+        UpdateCharacter();
+    }
+
+    public void PreviousCharacter()
+    {
+        currentCharacter--;
+
+        if (currentCharacter < 0)
+        {
+            currentCharacter = characterSprites.Length - 1;
+        }
+
+        UpdateCharacter();
+    }
+
+    public void ConfirmCharacter()
+    {
+        PlayerPrefs.SetInt("SelectedCharacter", currentCharacter);
+
         SceneManager.LoadScene("WorldMap");
     }
 }
